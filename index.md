@@ -1,16 +1,16 @@
 ## About me
 
-My name is Ziang Zhao, and you could call me Daniel. I'm currently a high school student and this is a summary of my current achievements. Although they might seemed to be little, they were a significant part of me that makes me the person that you're looking at. If you have any concerns about me, you could contact me at phone number +86 18124761984 or via email to the address danielzhao_benzene@foxmail.com or danielzhaobenzene@gmail.com. 
+My name is Ziang Zhao, and you could call me Daniel. I'm currently a high school student and this is a summary of my current achievements. Although they might seemed to be little, they were a significant part of me that makes me the person that you're looking at. If you have any interests in me, you could contact me at phone number +8618124761984 or via email to the address [danielzhao_benzene@foxmail.com](danielzhao_benzene@foxmail.com) or [danielzhaobenzene@gmail.com](danielzhaobenzene@gmail.com). 
 
 ## Education
 
 - Shenzhen College of International Education, Shenzhen, China
 
-    - Time: Aug 2017-Present
+- Time: Aug 2017-Present
 
-    School Official Site: https://www.alevel.com.cn/
+    School Official Site: [https://www.alevel.com.cn/](https://www.alevel.com.cn/)
 
-    School Profile: https://file.scie.com.cn/share_doc/School_Profile_2018-2019_cca1a734.pdf
+    School Profile: [https://file.scie.com.cn/share_doc/School_Profile_2018-2019_cca1a734.pdf](https://file.scie.com.cn/share_doc/School_Profile_2018-2019_cca1a734.pdf)
 
 ## Extracurricular activities
 
@@ -20,9 +20,9 @@ My name is Ziang Zhao, and you could call me Daniel. I'm currently a high school
 
 - Guided by Harvey Mudd College's professor Marianne de Laet, I completed a research project on the relationship between technology and online education by examining how the development of technology has changed education philosophy and how technologies can be used to improve the future development of online education.
 
-    Professor Comments: https://app.luminpdf.com/viewer/5f6ebad622ca3f001175ea3f
+    Professor Comments: [https://app.luminpdf.com/viewer/5f6ebad622ca3f001175ea3f](https://app.luminpdf.com/viewer/5f6ebad622ca3f001175ea3f)
 
-    Paper link: https://drive.google.com/file/d/1NHk0aBBr0yQ8j4W5kGYbjRBJAu78C0X5/view?usp=sharing
+    Paper link: [https://drive.google.com/file/d/1NHk0aBBr0yQ8j4W5kGYbjRBJAu78C0X5/view?usp=sharing](https://drive.google.com/file/d/1NHk0aBBr0yQ8j4W5kGYbjRBJAu78C0X5/view?usp=sharing)
 
 ### Algorithm Club, President
 
@@ -38,7 +38,7 @@ My name is Ziang Zhao, and you could call me Daniel. I'm currently a high school
 
 - Created an application for class scheduling and management for a teaching volunteering organization that I have been a part of for years. The app has log in, class registration and class feedback functions, and was developed using Vue and the WeChat mini app framework. The back end was completed using Python Flask, and MySQL was used for the database.
 
-    Back-end: https://github.com/ownyang/Spark
+    Back-end: [https://github.com/ownyang/Spark](https://github.com/ownyang/Spark)
 
     Images:
     
@@ -58,7 +58,7 @@ My name is Ziang Zhao, and you could call me Daniel. I'm currently a high school
 
 - The website went live in December 2018 and, today, has roughly 150 active users.
 
-    webpage: https://scie.pro
+    Webpage: [https://scie.pro](https://scie.pro)
 
 
 ### Classrooms Occupancy Status Webpage, Back-end developer
@@ -67,7 +67,7 @@ My name is Ziang Zhao, and you could call me Daniel. I'm currently a high school
 
 - Worked with classmates to create a web page for students to look up classroom availability and navigate to empty rooms. The page was built using React on the front end and PHP on the back end and used a SQL database.
 
-    Code: https://github.com/RaymondWHZ/Classrooms
+    Code: [https://github.com/RaymondWHZ/Classrooms](https://github.com/RaymondWHZ/Classrooms)
 
 ### Bluestamp Engineering
 
@@ -75,14 +75,14 @@ My name is Ziang Zhao, and you could call me Daniel. I'm currently a high school
 
 - Participated in a summer program in San Francisco, CA and built a small TV remote control and a face-recognition security camera using the OpenCV as the source library. The camera could recognize the fact of a human through computer vision and send a message when the face is detected.\
 
-    Portfolio: https://bluestampengineering.com/student-projects/ziang-z/
+    Portfolio: [https://bluestampengineering.com/student-projects/ziang-z/](https://bluestampengineering.com/student-projects/ziang-z/)
 
 ### The Duke of Edinburgh's International Award
 
 - Time: Aug 2017-Jun 2019
 
 - Participated in bronze and silver levels of this international award scheme focused on community service, physical recreation, skill-building and outdoor adventure. I completed a three-day hiking and camping expedition over a distance of 42 kilometers in Hong Kong, which required the use of maps, a compass, route cards, camping equipment, and cooking skills.
-    Official website for the program: https://www.dofe.org/
+    Official website for the program: [https://www.dofe.org/](https://www.dofe.org/)
 
 ### English writing club, Participant
 
@@ -105,7 +105,7 @@ My name is Ziang Zhao, and you could call me Daniel. I'm currently a high school
 - Worked as an intern for Haiying Data, a start-up company providing data analysis services of cross-border e-commerce transactions for Amazon, eBay, and Shopee, among others.
 
 - Independently developed a basic web crawler to extract Shopee data using webmagic, a framework in Java. In addition to the crawler, I also learned how to use a proxy IP pool to extract most available accurate data from the websites
-    Product Webpage: https://haiyingshuju.com/
+    Product Webpage: [https://haiyingshuju.com/](https://haiyingshuju.com/)
 
 ## Volunteering
 
@@ -121,9 +121,9 @@ My name is Ziang Zhao, and you could call me Daniel. I'm currently a high school
 
 - One of the top 20 teams in the Chinese division of the 2018 United States Academic Decathlon; chosen to represent China in the 2018 final in Frisco, Texas, and won Mathematics Gold as an individual contestant in the final (Apr 2018)
 
-    School news of entering USAD final: https://www.alevel.com.cn/news/2068/
+    School news of entering USAD final: [https://www.alevel.com.cn/news/2068/](https://www.alevel.com.cn/news/2068/)
 
-    School news of USAD final results: https://www.alevel.com.cn/news/2105/
+    School news of USAD final results: [https://www.alevel.com.cn/news/2105/](https://www.alevel.com.cn/news/2105/)
 
 - National Gold (top 5%) in the Canadian Mathematics Challenge (Nov 2018)
 
@@ -132,3 +132,11 @@ My name is Ziang Zhao, and you could call me Daniel. I'm currently a high school
 - Global honor roll (top 3%) in the University of Waterloo Hypatia Math Contest (Apr 2019)
 
 - National Bronze (top 35%) in the Waterloo Sir Isaac Newton Physics Contest (May 2019)
+
+- Global Gold (top 10%) in UK Senior Mathematics Challenge (Nov 2019)
+
+- National Outstanding Award (first place in intermediate group) in the American Computer Science League as an individual contestant (Apr 2019)
+
+    School news of receiving the reward: [https://www.alevel.com.cn/news/2330/](https://www.alevel.com.cn/news/2330/)
+
+- Silver Award in the USA Computer Olympiad (Jan 2020)
