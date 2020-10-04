@@ -28,6 +28,7 @@ My name is Ziang Zhao, and you could call me Daniel. I'm currently a high school
 
 - Time: Aug 2019-Jan 2020
 - Presided over an Algorithm Club in high school to teach C++ and knowledge of computer algorithms.
+    
     Logo: 
     
     ![logo.jpg](https://i.loli.net/2020/10/01/IeorSHFwZcWmRPJ.jpg)
