@@ -47,10 +47,6 @@ My name is Ziang Zhao, and you could call me Daniel. I'm currently a high school
     ![Screenshot 2.jpg](https://i.loli.net/2020/10/01/Ys7D2uTOH6Lty8P.jpg)
     ![Screenshot 3.jpg](https://i.loli.net/2020/10/01/KnaIjXqMvmU73gV.jpg)
 
-    
-
-    
-
 ### School Computer Science Forum, Editor
 
 - Time:  Oct 2018-Present
@@ -74,7 +70,7 @@ My name is Ziang Zhao, and you could call me Daniel. I'm currently a high school
 
 - Time: Jun 2019-Jul 2019
 
-- Participated in a summer program in San Francisco, CA and built a small TV remote control and a face-recognition security camera using the OpenCV as the source library. The camera could recognize the fact of a human through computer vision and send a message when the face is detected.\
+- Participated in a summer program in San Francisco, CA and built a small TV remote control and a face-recognition security camera using the OpenCV as the source library. The camera could recognize the fact of a human through computer vision and send a message when the face is detected.
 
     Portfolio: [https://bluestampengineering.com/student-projects/ziang-z/](https://bluestampengineering.com/student-projects/ziang-z/)
 
@@ -83,6 +79,7 @@ My name is Ziang Zhao, and you could call me Daniel. I'm currently a high school
 - Time: Aug 2017-Jun 2019
 
 - Participated in bronze and silver levels of this international award scheme focused on community service, physical recreation, skill-building and outdoor adventure. I completed a three-day hiking and camping expedition over a distance of 42 kilometers in Hong Kong, which required the use of maps, a compass, route cards, camping equipment, and cooking skills.
+    
     Official website for the program: [https://www.dofe.org/](https://www.dofe.org/)
 
 ### English writing club, Participant
@@ -106,6 +103,7 @@ My name is Ziang Zhao, and you could call me Daniel. I'm currently a high school
 - Worked as an intern for Haiying Data, a start-up company providing data analysis services of cross-border e-commerce transactions for Amazon, eBay, and Shopee, among others.
 
 - Independently developed a basic web crawler to extract Shopee data using webmagic, a framework in Java. In addition to the crawler, I also learned how to use a proxy IP pool to extract most available accurate data from the websites
+    
     Product Webpage: [https://haiyingshuju.com/](https://haiyingshuju.com/)
 
 ## Volunteering
