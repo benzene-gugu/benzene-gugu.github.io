@@ -14,7 +14,7 @@ My name is Ziang Zhao, and you could call me Daniel. I'm currently a high school
 
 ## Extracurricular activities
 
-### Pioneer Academics
+**Pioneer Academics**
 
 - Time: Mar 2020-Jun 2020
 
@@ -24,14 +24,15 @@ My name is Ziang Zhao, and you could call me Daniel. I'm currently a high school
 
     Paper link: https://drive.google.com/file/d/1NHk0aBBr0yQ8j4W5kGYbjRBJAu78C0X5/view?usp=sharing
 
-### Algorithm Club, President
+**Algorithm Club, President**
 
 - Time: Aug 2019-Jan 2020
 - Presided over an Algorithm Club in high school to teach C++ and knowledge of computer algorithms.
     Logo: 
+    
     ![logo.jpg](https://i.loli.net/2020/10/01/IeorSHFwZcWmRPJ.jpg)
 
-### Class Scheduling App, Developer
+**Class Scheduling App, Developer**
 
 - Time: Oct 2019-Jul 2020
 
@@ -40,13 +41,16 @@ My name is Ziang Zhao, and you could call me Daniel. I'm currently a high school
     Back-end: https://github.com/ownyang/Spark
 
     Images:
-    ![Screenshot 1.jpg](https://i.loli.net/2020/10/01/kcwPaRdqu9pyNoA.jpg)![Screenshot 2.jpg](https://i.loli.net/2020/10/01/Ys7D2uTOH6Lty8P.jpg)![Screenshot 3.jpg](https://i.loli.net/2020/10/01/KnaIjXqMvmU73gV.jpg)
+    
+    ![Screenshot 1.jpg](https://i.loli.net/2020/10/01/kcwPaRdqu9pyNoA.jpg)
+    ![Screenshot 2.jpg](https://i.loli.net/2020/10/01/Ys7D2uTOH6Lty8P.jpg)
+    ![Screenshot 3.jpg](https://i.loli.net/2020/10/01/KnaIjXqMvmU73gV.jpg)
 
     
 
     
 
-### School Computer Science Forum, Editor
+**School Computer Science Forum, Editor**
 
 - Time:  Oct 2018-Present
 
@@ -57,7 +61,7 @@ My name is Ziang Zhao, and you could call me Daniel. I'm currently a high school
     webpage: https://scie.pro
 
 
-### Classrooms Occupancy Status Webpage, Back-end developer
+**Classrooms Occupancy Status Webpage, Back-end developer**
 
 - Time: Dec 2019-Jan 2020
 
@@ -65,7 +69,7 @@ My name is Ziang Zhao, and you could call me Daniel. I'm currently a high school
 
     Code: https://github.com/RaymondWHZ/Classrooms
 
-### Bluestamp Engineering
+**Bluestamp Engineering**
 
 - Time: Jun 2019-Jul 2019
 
@@ -73,20 +77,20 @@ My name is Ziang Zhao, and you could call me Daniel. I'm currently a high school
 
     Portfolio: https://bluestampengineering.com/student-projects/ziang-z/
 
-### The Duke of Edinburgh's International Award
+**The Duke of Edinburgh's International Award**
 
 - Time: Aug 2017-Jun 2019
 
 - Participated in bronze and silver levels of this international award scheme focused on community service, physical recreation, skill-building and outdoor adventure. I completed a three-day hiking and camping expedition over a distance of 42 kilometers in Hong Kong, which required the use of maps, a compass, route cards, camping equipment, and cooking skills.
     Official website for the program: https://www.dofe.org/
 
-### English writing club, Participant 
+**English writing club, Participant**
 
 - Time: Jan 2020-Present
 
 - Participated in an English writing club, discussing writing skills and principles with a diverse range of members with whom I now plan to co-author a novel.
 
-### Peer Support division of Students Council, Prefect 
+**Peer Support division of Students Council, Prefect**
 
 - Time: Sep 2020-Present
 
