@@ -1,37 +1,279 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/Benzene-gugugu/benzene-gugugu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Ziang Zhao, and you could call me Daniel. I'm currently a high school student and this is a summary of my current achievements. Although they might seemed to be little, they were a significant part of me that makes me the person that you're looking at. If you have any concerns about me, you could contact me at phone number +86 18124761984 or via email to the address danielzhao_benzene@foxmail.com or danielzhaobenzene@gmail.com. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
 
-### Markdown
+- Shenzhen College of International Education, Shenzhen, China
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    - Time: Aug 2017-Present
 
-```markdown
-Syntax highlighted code block
+    School Official Site: https://www.alevel.com.cn/
 
-# Header 1
-## Header 2
-### Header 3
+    School Profile: https://file.scie.com.cn/share_doc/School_Profile_2018-2019_cca1a734.pdf
 
-- Bulleted
-- List
+## Extracurricular activities
 
-1. Numbered
-2. List
+### Pioneer Academics
 
-**Bold** and _Italic_ and `Code` text
+- Time: Mar 2020-Jun 2020
 
-[Link](url) and ![Image](src)
-```
+- Guided by Harvey Mudd College's professor Marianne de Laet, I completed a research project on the relationship between technology and online education by examining how the development of technology has changed education philosophy and how technologies can be used to improve the future development of online education.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    Professor Comments: https://app.luminpdf.com/viewer/5f6ebad622ca3f001175ea3f
 
-### Jekyll Themes
+    Paper link: https://drive.google.com/file/d/1NHk0aBBr0yQ8j4W5kGYbjRBJAu78C0X5/view?usp=sharing
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Benzene-gugugu/benzene-gugugu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Algorithm Club, President
 
-### Support or Contact
+- Time: Aug 2019-Jan 2020
+- Presided over an Algorithm Club in high school to teach C++ and knowledge of computer algorithms.
+    Logo: 
+    ![logo.jpg](https://i.loli.net/2020/10/01/IeorSHFwZcWmRPJ.jpg)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Class Scheduling App, Developer
+
+- Time: Oct 2019-Jul 2020
+
+- Created an application for class scheduling and management for a teaching volunteering organization that I have been a part of for years. The app has log in, class registration and class feedback functions, and was developed using Vue and the WeChat mini app framework. The back end was completed using Python Flask, and MySQL was used for the database.
+
+    Back-end: https://github.com/ownyang/Spark
+
+    Images:
+    ![Screenshot 1.jpg](https://i.loli.net/2020/10/01/kcwPaRdqu9pyNoA.jpg)![Screenshot 2.jpg](https://i.loli.net/2020/10/01/Ys7D2uTOH6Lty8P.jpg)![Screenshot 3.jpg](https://i.loli.net/2020/10/01/KnaIjXqMvmU73gV.jpg)
+
+    
+
+    
+
+### School Computer Science Forum, Editor
+
+- Time:  Oct 2018-Present
+
+- Worked with classmates to build a website, which now serves as a platform for all programmers in our high school to share and communicate ideas related to programming and computer science. I now help edit and post topics while maintaining the website.
+
+- The website went live in December 2018 and, today, has roughly 150 active users.
+
+    webpage: https://scie.pro
+
+
+### Classrooms Occupancy Status Webpage, Back-end developer
+
+- Time: Dec 2019-Jan 2020
+
+- Worked with classmates to create a web page for students to look up classroom availability and navigate to empty rooms. The page was built using React on the front end and PHP on the back end and used a SQL database.
+
+    Code: https://github.com/RaymondWHZ/Classrooms
+
+### Bluestamp Engineering
+
+- Time: Jun 2019-Jul 2019
+
+- Participated in a summer program in San Francisco, CA and built a small TV remote control and a face-recognition security camera using the OpenCV as the source library. The camera could recognize the fact of a human through computer vision and send a message when the face is detected.\
+
+    Portfolio: https://bluestampengineering.com/student-projects/ziang-z/
+
+### The Duke of Edinburgh's International Award
+
+- Time: Aug 2017-Jun 2019
+
+- Participated in bronze and silver levels of this international award scheme focused on community service, physical recreation, skill-building and outdoor adventure. I completed a three-day hiking and camping expedition over a distance of 42 kilometers in Hong Kong, which required the use of maps, a compass, route cards, camping equipment, and cooking skills.
+    Official website for the program: https://www.dofe.org/
+
+### English writing club, Participant 
+
+- Time: Jan 2020-Present
+
+- Participated in an English writing club, discussing writing skills and principles with a diverse range of members with whom I now plan to co-author a novel.
+
+### Peer Support division of Students Council, Prefect 
+
+- Time: Sep 2020-Present
+
+- Worked as a prefect in Peer Support division which is under Student Council and aimed at helping students improve study performance and providing students with a channel to relieve the stress and get united. My role is to organize tutors for students who need help in study and provide training to new students on leadership skills.
+
+## Internship
+
+- Place: Shenzhen Youlin Information Tech Co. Ltd
+
+- Time: Jun 2020-Jul 2020
+
+- Worked as an intern for Haiying Data, a start-up company providing data analysis services of cross-border e-commerce transactions for Amazon, eBay, and Shopee, among others.
+
+- Independently developed a basic web crawler to extract Shopee data using webmagic, a framework in Java. In addition to the crawler, I also learned how to use a proxy IP pool to extract most available accurate data from the websites
+    Product Webpage: https://haiyingshuju.com/
+
+## Volunteering
+
+- Place: Spark Volunteer Group
+
+- Time: Aug 2017-Present
+
+- Taught oral English to children in rural China through Spark, a charity organization aiming to provide online education. I was awarded Most Popular Teacher in 2018.
+
+## Honors and awards
+
+- "Outstanding" award in a coding competition organized by the Federation of British International Schools in Asia (Dec 2017)
+
+- One of the top 20 teams in the Chinese division of the 2018 United States Academic Decathlon; chosen to represent China in the 2018 final in Frisco, Texas, and won Mathematics Gold as an individual contestant in the final (Apr 2018)
+
+    School news of entering USAD final: https://www.alevel.com.cn/news/2068/
+
+    School news of USAD final results: https://www.alevel.com.cn/news/2105/
+
+- National Gold (top 5%) in the Canadian Mathematics Challenge (Nov 2018)
+
+- National honorable award (top 30%) in the USA Physics Bowl competition (Mar 2019)
+
+- Global honor roll (top 3%) in the University of Waterloo Hypatia Math Contest (Apr 2019)
+
+- National Bronze (top 35%) in the Waterloo Sir Isaac Newton Physics Contest (May 2019)## About me
+
+My name is Ziang Zhao, and you could call me Daniel. I'm currently a high school student and this is a summary of my current achievements. Although they might seemed to be little, they were a significant part of me that makes me the person that you're looking at. If you have any concerns about me, you could contact me at phone number +86 18124761984 or via email to the address danielzhao_benzene@foxmail.com or danielzhaobenzene@gmail.com. 
+
+## Education
+
+- Shenzhen College of International Education, Shenzhen, China
+
+    - Time: Aug 2017-Present
+
+    School Official Site: https://www.alevel.com.cn/
+
+    School Profile: https://file.scie.com.cn/share_doc/School_Profile_2018-2019_cca1a734.pdf
+
+## Extracurricular activities
+
+### Pioneer Academics
+
+- Time: Mar 2020-Jun 2020
+
+- Guided by Harvey Mudd College's professor Marianne de Laet, I completed a research project on the relationship between technology and online education by examining how the development of technology has changed education philosophy and how technologies can be used to improve the future development of online education.
+
+    Professor Comments: https://app.luminpdf.com/viewer/5f6ebad622ca3f001175ea3f
+
+    Paper link: https://drive.google.com/file/d/1NHk0aBBr0yQ8j4W5kGYbjRBJAu78C0X5/view?usp=sharing
+
+### Algorithm Club, President
+
+- Time: Aug 2019-Jan 2020
+- Presided over an Algorithm Club in high school to teach C++ and knowledge of computer algorithms.
+    Logo: 
+    ![logo.jpg](https://i.loli.net/2020/10/01/IeorSHFwZcWmRPJ.jpg)
+
+### Class Scheduling App, Developer
+
+- Time: Oct 2019-Jul 2020
+
+- Created an application for class scheduling and management for a teaching volunteering organization that I have been a part of for years. The app has log in, class registration and class feedback functions, and was developed using Vue and the WeChat mini app framework. The back end was completed using Python Flask, and MySQL was used for the database.
+
+    Back-end: https://github.com/ownyang/Spark
+
+    Images:
+    ![Screenshot 1.jpg](https://i.loli.net/2020/10/01/kcwPaRdqu9pyNoA.jpg)![Screenshot 2.jpg](https://i.loli.net/2020/10/01/Ys7D2uTOH6Lty8P.jpg)![Screenshot 3.jpg](https://i.loli.net/2020/10/01/KnaIjXqMvmU73gV.jpg)
+
+    
+
+    
+
+### School Computer Science Forum, Editor
+
+- Time:  Oct 2018-Present
+
+- Worked with classmates to build a website, which now serves as a platform for all programmers in our high school to share and communicate ideas related to programming and computer science. I now help edit and post topics while maintaining the website.
+
+- The website went live in December 2018 and, today, has roughly 150 active users.
+
+    webpage: https://scie.pro
+
+
+### Classrooms Occupancy Status Webpage, Back-end developer
+
+- Time: Dec 2019-Jan 2020
+
+- Worked with classmates to create a web page for students to look up classroom availability and navigate to empty rooms. The page was built using React on the front end and PHP on the back end and used a SQL database.
+
+    Code: https://github.com/RaymondWHZ/Classrooms
+
+### Bluestamp Engineering
+
+- Time: Jun 2019-Jul 2019
+
+- Participated in a summer program in San Francisco, CA and built a small TV remote control and a face-recognition security camera using the OpenCV as the source library. The camera could recognize the fact of a human through computer vision and send a message when the face is detected.\
+
+    Portfolio: https://bluestampengineering.com/student-projects/ziang-z/
+
+### The Duke of Edinburgh's International Award
+
+- Time: Aug 2017-Jun 2019
+
+- Participated in bronze and silver levels of this international award scheme focused on community service, physical recreation, skill-building and outdoor adventure. I completed a three-day hiking and camping expedition over a distance of 42 kilometers in Hong Kong, which required the use of maps, a compass, route cards, camping equipment, and cooking skills.
+    Official website for the program: https://www.dofe.org/
+
+### English writing club, Participant 
+
+- Time: Jan 2020-Present
+
+- Participated in an English writing club, discussing writing skills and principles with a diverse range of members with whom I now plan to co-author a novel.
+
+### Peer Support division of Students Council, Prefect 
+
+- Time: Sep 2020-Present
+
+- Worked as a prefect in Peer Support division which is under Student Council and aimed at helping students improve study performance and providing students with a channel to relieve the stress and get united. My role is to organize tutors for students who need help in study and provide training to new students on leadership skills.
+
+## Internship
+
+- Place: Shenzhen Youlin Information Tech Co. Ltd
+
+- Time: Jun 2020-Jul 2020
+
+- Worked as an intern for Haiying Data, a start-up company providing data analysis services of cross-border e-commerce transactions for Amazon, eBay, and Shopee, among others.
+
+- Independently developed a basic web crawler to extract Shopee data using webmagic, a framework in Java. In addition to the crawler, I also learned how to use a proxy IP pool to extract most available accurate data from the websites
+    Product Webpage: https://haiyingshuju.com/
+
+## Volunteering
+
+- Place: Spark Volunteer Group
+
+- Time: Aug 2017-Present
+
+- Taught oral English to children in rural China through Spark, a charity organization aiming to provide online education. I was awarded Most Popular Teacher in 2018.
+
+## Honors and awards
+
+- "Outstanding" award in a coding competition organized by the Federation of British International Schools in Asia (Dec 2017)
+
+- One of the top 20 teams in the Chinese division of the 2018 United States Academic Decathlon; chosen to represent China in the 2018 final in Frisco, Texas, and won Mathematics Gold as an individual contestant in the final (Apr 2018)
+
+    School news of entering USAD final: https://www.alevel.com.cn/news/2068/
+
+    School news of USAD final results: https://www.alevel.com.cn/news/2105/
+
+- National Gold (top 5%) in the Canadian Mathematics Challenge (Nov 2018)
+
+- National honorable award (top 30%) in the USA Physics Bowl competition (Mar 2019)
+
+- Global honor roll (top 3%) in the University of Waterloo Hypatia Math Contest (Apr 2019)
+
+- National Bronze (top 35%) in the Waterloo Sir Isaac Newton Physics Contest (May 2019)
+
+- Global Gold (top 10%) in UK Senior Mathematics Challenge (Nov 2019)
+
+- National Outstanding Award (first place in intermediate group) in the American Computer Science League as an individual contestant (Apr 2019)
+
+    School news of receiving the reward: https://www.alevel.com.cn/news/2330/
+
+- Silver Award in the USA Computer Olympiad (Jan 2020)
+
+- Global Gold (top 10%) in UK Senior Mathematics Challenge (Nov 2019)
+
+- National Outstanding Award (first place in intermediate group) in the American Computer Science League as an individual contestant (Apr 2019)
+
+    School news of receiving the reward: https://www.alevel.com.cn/news/2330/
+
+- Silver Award in the USA Computer Olympiad (Jan 2020)
+
+
+
+
