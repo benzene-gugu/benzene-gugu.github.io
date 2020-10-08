@@ -1,16 +1,12 @@
 ## About me
 
-My name is Ziang Zhao, and you could call me Daniel. I'm currently a high school student and this is a summary of my current achievements. Although they might seemed to be little, they were a significant part of me that makes me the person that you're looking at. If you have any interests in me, you could contact me at phone number +8618124761984 or via email to the address [danielzhao_benzene@foxmail.com](danielzhao_benzene@foxmail.com) or [danielzhaobenzene@gmail.com](danielzhaobenzene@gmail.com). 
+My name is Ziang Zhao, and you could call me Daniel. I’m currently a senior at Shenzhen College of International Education in Shenzhen, China.
 
-## Education
 
-- Shenzhen College of International Education, Shenzhen, China
+## Contact Information
+- Phone: +8618124761984
 
-- Time: Aug 2017-Present
-
-    School Official Site: [https://www.alevel.com.cn/](https://www.alevel.com.cn/)
-
-    School Profile: [https://file.scie.com.cn/share_doc/School_Profile_2018-2019_cca1a734.pdf](https://file.scie.com.cn/share_doc/School_Profile_2018-2019_cca1a734.pdf)
+- Email: [danielzhao_benzene@foxmail.com](danielzhao_benzene@foxmail.com) or [danielzhaobenzene@gmail.com](danielzhaobenzene@gmail.com). 
 
 ## Extracurricular activities
 
