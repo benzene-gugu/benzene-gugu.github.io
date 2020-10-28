@@ -16,7 +16,7 @@ My name is Ziang Zhao, and you could call me Daniel. I’m currently a senior at
 
 - Guided by Harvey Mudd College's professor Marianne de Laet, I completed a research project on the relationship between technology and online education by examining how the development of technology has changed education philosophy and how technologies can be used to improve the future development of online education.
 
-    Professor Comments: [https://app.luminpdf.com/viewer/5f6ebad622ca3f001175ea3f](https://app.luminpdf.com/viewer/5f6ebad622ca3f001175ea3f)
+    Professor Comments: [https://drive.google.com/file/d/1OTzctOiodMaZFA19Jw0-c97ftAOKhcSf/view?usp=sharing](https://drive.google.com/file/d/1OTzctOiodMaZFA19Jw0-c97ftAOKhcSf/view?usp=sharing)
 
     Paper link: [https://drive.google.com/file/d/1NHk0aBBr0yQ8j4W5kGYbjRBJAu78C0X5/view?usp=sharing](https://drive.google.com/file/d/1NHk0aBBr0yQ8j4W5kGYbjRBJAu78C0X5/view?usp=sharing)
 
