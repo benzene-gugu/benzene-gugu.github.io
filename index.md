@@ -66,7 +66,7 @@ My name is Ziang Zhao, and you could call me Daniel. I’m currently a senior at
 
 - Time: Jun 2019-Jul 2019
 
-- Participated in a summer program in San Francisco, CA and built a small TV remote control and a face-recognition security camera using the OpenCV as the source library. The camera could recognize the fact of a human through computer vision and send a message when the face is detected.
+- Participated in a summer program in San Francisco, CA and built a small TV remote control and a face-recognition security camera using the OpenCV as the source library. The camera could recognize the face of a human through computer vision and send a message when the face is detected.
 
     Portfolio: [https://bluestampengineering.com/student-projects/ziang-z/](https://bluestampengineering.com/student-projects/ziang-z/)
 
@@ -96,7 +96,7 @@ My name is Ziang Zhao, and you could call me Daniel. I’m currently a senior at
 
 - Time: Jun 2020-Jul 2020
 
-- Worked as an intern for Haiying Data, a start-up company providing data analysis services of cross-border e-commerce transactions for Amazon, eBay, and Shopee, among others.
+- Worked as an intern for Shenzhen Youlin Information, a start-up company providing data analysis services of cross-border e-commerce transactions for Amazon, eBay, and Shopee, among others.
 
 - Independently developed a basic web crawler to extract Shopee data using webmagic, a framework in Java. In addition to the crawler, I also learned how to use a proxy IP pool to extract most available accurate data from the websites
     
