@@ -10,6 +10,11 @@ My name is Ziang Zhao, and you could call me Daniel. I’m currently a senior at
 
 ## Extracurricular activities
 
+### Computer Algebra System, Developer
+- Time: Sep 2020-Present
+- School project to construct a Computer Algebra System which can be installed on laptop to do complex math and statistics calculations. It offers the users a vast array of functions and abilities as well as an easy user interface. Python and Qt are used to code the functions and interface respectively.
+
+
 ### Pioneer Academics
 
 - Time: Mar 2020-Jun 2020
