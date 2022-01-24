@@ -10,9 +10,15 @@ My name is Ziang Zhao, and you could call me Daniel. I’m currently a senior at
 
 ## Extracurricular activities
 
+### Simple COC (Call of Cthulu) Combat Simulator
+- Time: Dec 2021 - Present
+- An online simulator used to simulate the combat rounds under the TRPG rules of Call of Cthulu. The combat simulator is only a simulation without the consideration of any surroundings of the combat and would only take some basic skills into account. The player could select their skills and see the upcoming results of the combat. 
+
 ### Computer Algebra System, Developer
-- Time: Sep 2020-Present
-- School project to construct a Computer Algebra System which can be installed on laptop to do complex math and statistics calculations. It offers the users a vast array of functions and abilities as well as an easy user interface. Python and Qt are used to code the functions and interface respectively.
+- Time: Sep 2020-Apr 2021
+- School project to construct a Computer Algebra System which can be installed on laptop to do complex math and statistics calculations. It offers the users a vast array of functions and abilities as well as an easy user interface. Python is used to code the functions and interface respectively.
+
+    Link to the code on Github: [https://github.com/Benzene-gugugu/Mini-CAS-Calculator](https://github.com/Benzene-gugugu/Mini-CAS-Calculator)
 
 
 ### Pioneer Academics
