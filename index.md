@@ -1,10 +1,10 @@
 ## About me
 
-My name is Ziang Zhao, and you could call me Daniel. I’m currently a senior at Shenzhen College of International Education in Shenzhen, China.
+My name is Ziang Zhao, and you could call me Daniel. I’m currently a freshman at University of Wisconsin-Madison in Madison, WI, USA.
 
 
 ## Contact Information
-- Phone: +8618124761984
+- Phone: +8618124761984 or +16087707482
 
 - Email: [danielzhao_benzene@foxmail.com](danielzhao_benzene@foxmail.com) or [danielzhaobenzene@gmail.com](danielzhaobenzene@gmail.com). 
 
@@ -13,6 +13,8 @@ My name is Ziang Zhao, and you could call me Daniel. I’m currently a senior at
 ### Simple COC (Call of Cthulu) Combat Simulator
 - Time: Dec 2021 - Present
 - An online simulator used to simulate the combat rounds under the TRPG rules of Call of Cthulu. The combat simulator is only a simulation without the consideration of any surroundings of the combat and would only take some basic skills into account. The player could select their skills and see the upcoming results of the combat. 
+
+    Link to the code on Github: [https://github.com/Benzene-gugugu/simple-coc-combat-simulator](https://github.com/Benzene-gugugu/simple-coc-combat-simulator)
 
 ### Computer Algebra System, Developer
 - Time: Sep 2020-Apr 2021
@@ -30,15 +32,6 @@ My name is Ziang Zhao, and you could call me Daniel. I’m currently a senior at
     Professor Comments: [https://drive.google.com/file/d/1OTzctOiodMaZFA19Jw0-c97ftAOKhcSf/view?usp=sharing](https://drive.google.com/file/d/1OTzctOiodMaZFA19Jw0-c97ftAOKhcSf/view?usp=sharing)
 
     Paper link: [https://drive.google.com/file/d/1NHk0aBBr0yQ8j4W5kGYbjRBJAu78C0X5/view?usp=sharing](https://drive.google.com/file/d/1NHk0aBBr0yQ8j4W5kGYbjRBJAu78C0X5/view?usp=sharing)
-
-### Algorithm Club, President
-
-- Time: Aug 2019-Jan 2020
-- Presided over an Algorithm Club in high school to teach C++ and knowledge of computer algorithms.
-    
-    Logo: 
-    
-    ![logo.jpg](https://i.loli.net/2020/10/01/IeorSHFwZcWmRPJ.jpg)
 
 ### Class Scheduling App, Developer
 
@@ -81,26 +74,6 @@ My name is Ziang Zhao, and you could call me Daniel. I’m currently a senior at
 
     Portfolio: [https://bluestampengineering.com/student-projects/ziang-z/](https://bluestampengineering.com/student-projects/ziang-z/)
 
-### The Duke of Edinburgh's International Award
-
-- Time: Aug 2017-Jun 2019
-
-- Participated in bronze and silver levels of this international award scheme focused on community service, physical recreation, skill-building and outdoor adventure. I completed a three-day hiking and camping expedition over a distance of 42 kilometers in Hong Kong, which required the use of maps, a compass, route cards, camping equipment, and cooking skills.
-    
-    Official website for the program: [https://www.dofe.org/](https://www.dofe.org/)
-
-### English writing club, Participant
-
-- Time: Jan 2020-Present
-
-- Participated in an English writing club, discussing writing skills and principles with a diverse range of members with whom I now plan to co-author a novel.
-
-### Peer Support division of Students Council, Prefect
-
-- Time: Sep 2020-Present
-
-- Worked as a prefect in Peer Support division which is under Student Council and aimed at helping students improve study performance and providing students with a channel to relieve the stress and get united. My role is to organize tutors for students who need help in study and provide training to new students on leadership skills.
-
 ## Internship
 
 - Place: Shenzhen Youlin Information Tech Co. Ltd
@@ -112,37 +85,3 @@ My name is Ziang Zhao, and you could call me Daniel. I’m currently a senior at
 - Independently developed a basic web crawler to extract Shopee data using webmagic, a framework in Java. In addition to the crawler, I also learned how to use a proxy IP pool to extract most available accurate data from the websites
     
     Product Webpage: [https://haiyingshuju.com/](https://haiyingshuju.com/)
-
-## Volunteering
-
-- Place: Spark Volunteer Group
-
-- Time: Aug 2017-Present
-
-- Taught oral English to children in rural China through Spark, a charity organization aiming to provide online education. I was awarded Most Popular Teacher in 2018.
-
-## Honors and awards
-
-- "Outstanding" award in a coding competition organized by the Federation of British International Schools in Asia (Dec 2017)
-
-- One of the top 20 teams in the Chinese division of the 2018 United States Academic Decathlon; chosen to represent China in the 2018 final in Frisco, Texas, and won Mathematics Gold as an individual contestant in the final (Apr 2018)
-
-    School news of entering USAD final: [https://www.alevel.com.cn/news/2068/](https://www.alevel.com.cn/news/2068/)
-
-    School news of USAD final results: [https://www.alevel.com.cn/news/2105/](https://www.alevel.com.cn/news/2105/)
-
-- National Gold (top 5%) in the Canadian Mathematics Challenge (Nov 2018)
-
-- National honorable award (top 30%) in the USA Physics Bowl competition (Mar 2019)
-
-- Global honor roll (top 3%) in the University of Waterloo Hypatia Math Contest (Apr 2019)
-
-- National Bronze (top 35%) in the Waterloo Sir Isaac Newton Physics Contest (May 2019)
-
-- Global Gold (top 10%) in UK Senior Mathematics Challenge (Nov 2019)
-
-- National Outstanding Award (first place in intermediate group) in the American Computer Science League as an individual contestant (Apr 2019)
-
-    School news of receiving the reward: [https://www.alevel.com.cn/news/2330/](https://www.alevel.com.cn/news/2330/)
-
-- Silver Award in the USA Computer Olympiad (Jan 2020)
