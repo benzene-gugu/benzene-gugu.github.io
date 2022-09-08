@@ -54,7 +54,16 @@ My name is Ziang Zhao, and you could call me Daniel. I’m currently an undergra
 - Instructor: Ms. Setareh Behroozi
 - Duties: Helping with in-class exercises, Proctoring of exams, Host office hours
 
-## Extracurricular activities
+## Publications
+
+### Conferences
+[1] Research on the Evolution of Neural Networks Models in NLP, to be published on  International Conference on Signal Processing and Machine Learning (CONF-SPML 2023), taken place in February 2023. 
+
+## Personal Projects and Activities
+
+### IEEE UW-Madison Student Chapter
+- Time: Sep 2022-Present
+- A club for connection within industry for computer and electrical engineering students. Students would be able to learn about different positions and jobs within the industry and would be able to attend to different projects from time to time to learn more about the field. 
 
 ### Simple COC (Call of Cthulu) Combat Simulator
 - Time: Dec 2021 - Present
@@ -78,46 +87,3 @@ My name is Ziang Zhao, and you could call me Daniel. I’m currently an undergra
     Professor Comments: [https://drive.google.com/file/d/1OTzctOiodMaZFA19Jw0-c97ftAOKhcSf/view?usp=sharing](https://drive.google.com/file/d/1OTzctOiodMaZFA19Jw0-c97ftAOKhcSf/view?usp=sharing)
 
     Paper link: [https://drive.google.com/file/d/1NHk0aBBr0yQ8j4W5kGYbjRBJAu78C0X5/view?usp=sharing](https://drive.google.com/file/d/1NHk0aBBr0yQ8j4W5kGYbjRBJAu78C0X5/view?usp=sharing)
-
-### Class Scheduling App, Developer
-
-- Time: Oct 2019-Jul 2020
-
-- Created an application for class scheduling and management for a teaching volunteering organization that I have been a part of for years. The app has log in, class registration and class feedback functions, and was developed using Vue and the WeChat mini app framework. The back end was completed using Python Flask, and MySQL was used for the database.
-
-    Back-end: [https://github.com/ownyang/Spark](https://github.com/ownyang/Spark)
-
-    Images:
-    
-    ![Screenshot 1.jpg](https://i.loli.net/2020/10/01/kcwPaRdqu9pyNoA.jpg)
-    ![Screenshot 2.jpg](https://i.loli.net/2020/10/01/Ys7D2uTOH6Lty8P.jpg)
-    ![Screenshot 3.jpg](https://i.loli.net/2020/10/01/KnaIjXqMvmU73gV.jpg)
-
-### School Computer Science Forum, Editor
-
-- Time:  Oct 2018-Present
-
-- Worked with classmates to build a website, which now serves as a platform for all programmers in our high school to share and communicate ideas related to programming and computer science. I now help edit and post topics while maintaining the website.
-
-- The website went live in December 2018 and, today, has roughly 150 active users.
-
-    Webpage: [https://scie.pro](https://scie.pro)
-
-
-### Classrooms Occupancy Status Webpage, Back-end developer
-
-- Time: Dec 2019-Jan 2020
-
-- Worked with classmates to create a web page for students to look up classroom availability and navigate to empty rooms. The page was built using React on the front end and PHP on the back end and used a SQL database.
-
-    Code: [https://github.com/RaymondWHZ/Classrooms](https://github.com/RaymondWHZ/Classrooms)
-
-### Bluestamp Engineering
-
-- Time: Jun 2019-Jul 2019
-
-- Participated in a summer program in San Francisco, CA and built a small TV remote control and a face-recognition security camera using the OpenCV as the source library. The camera could recognize the face of a human through computer vision and send a message when the face is detected.
-
-    Portfolio: [https://bluestampengineering.com/student-projects/ziang-z/](https://bluestampengineering.com/student-projects/ziang-z/)
-
-
