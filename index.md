@@ -1,6 +1,6 @@
 ## About me
 
-My name is Ziang Zhao, and you could call me Daniel. I’m currently a sophmore at University of Wisconsin-Madison in Madison, WI, USA.
+My name is Ziang Zhao, and you could call me Daniel. I’m currently an undergraduate student at University of Wisconsin-Madison in Madison, WI, USA.
 
 
 ## Contact Information
@@ -10,18 +10,49 @@ My name is Ziang Zhao, and you could call me Daniel. I’m currently a sophmore 
 
 ## Internship and Working Experiences
 
+### Microsoft Corporation
 
-- Place: Shenzhen Youlin Information Tech Co. Ltd
+- Location: Online
+
+- Role: Part Time Assistant
+
+- Time: Jul 2022-Aug 2022
+
+- Worked as a developer for web services utilizing Java and Spring framework
+
+- Developed and debugged a database system of backend data arrangement
+
+- Utilized JUnit to test the system to allow large quantities of data access
+
+
+### Shenzhen Youlin Information Tech Co. Ltd
+
+- Location: Shenzhen
 
 - Role: Data Analyst Intern
 
 - Time: Jun 2020-Jul 2020
 
-- Worked as an intern for Shenzhen Youlin Information, a start-up company providing data analysis services of cross-border e-commerce transactions for Amazon, eBay, and Shopee, among others.
+- Shenzhen Youlin Information is a start-up company providing data analysis services of cross-border e-commerce transactions for Amazon, eBay, and Shopee, among others.
 
-- Independently developed a basic web crawler to extract Shopee data using webmagic, a framework in Java. In addition to the crawler, I also learned how to use a proxy IP pool to extract most available accurate data from the websites
-    
+- Worked in the data collection system of Shopee which is an e-commerce platform faced to Southeast Asia. 
+
+- Developed a basic web crawler to extract Shopee data using webmagic, a framework in Java.
+
+- Used a proxy IP pool to extract most available accurate data from the websites.
+
     Product Webpage: [https://haiyingshuju.com/](https://haiyingshuju.com/)
+
+## Teaching Experience
+
+### Teaching Assistant in University of Wisconsin-Madison
+- Time: Sept 2022-May 2023
+- Class name: ECE 252 Introduction to Computer Engineering
+- Topics Covered: Logic components, Boolean Algebra, combinational logic design, synchronous sequential logic design, computer organization and design, machine and assembly language programming
+- Tools and Enviroment: Piazza, Canvas, Microsoft Teams
+- Number of Students: Approximately 100
+- Instructor: Ms. Setareh Behroozi
+- Duties: Helping with in-class exercises, Proctoring of exams, Host office hours
 
 ## Extracurricular activities
 
