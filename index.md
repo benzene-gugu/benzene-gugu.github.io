@@ -46,13 +46,14 @@ My name is Ziang Zhao, and you could call me Daniel. I’m currently an undergra
 ## Teaching Experience
 
 ### Teaching Assistant in University of Wisconsin-Madison
-- Time: Sept 2022-May 2023
-- Class name: ECE 252 Introduction to Computer Engineering
-- Topics Covered: Logic components, Boolean Algebra, combinational logic design, synchronous sequential logic design, computer organization and design, machine and assembly language programming
+    - Class name: ECE 252 Introduction to Computer Engineering
+    - Time: Sept 2022-May 2023
+    - Topics Covered: Logic components, Boolean Algebra, combinational logic design, synchronous sequential logic design, computer organization and design, machine and assembly language programming
+    - Class name: ECE 353 Introduction to Microprocessor Systems
+    - Time: Jan 2023 - May 2023
+    - Topics covered: Architecture, operation and application of microprocessors
 - Tools and Enviroment: Piazza, Canvas, Microsoft Teams
-- Number of Students: Approximately 100
-- Instructor: Ms. Setareh Behroozi
-- Duties: Helping with in-class exercises, Proctoring of exams, Host office hours
+- Duties: Proctoring of exams, Host office hours
 
 ## Publications
 
@@ -60,6 +61,10 @@ My name is Ziang Zhao, and you could call me Daniel. I’m currently an undergra
 [1] Research on the Evolution of Neural Networks Models in NLP, to be published on  International Conference on Signal Processing and Machine Learning (CONF-SPML 2023), taken place in February 2023. 
 
 ## Personal Projects and Activities
+
+### Simple Microprocessor Game Controller
+- Time: Dec 2023 - Present
+- A simple game controller that is being developped using a 6502 microcontroller chip and the NE555 timer circuit. It could connect to the computer via USB and act as a game controlller with inputs from joysticks and buttons. 
 
 ### IEEE UW-Madison Student Chapter
 - Time: Sep 2022-Present
@@ -76,14 +81,3 @@ My name is Ziang Zhao, and you could call me Daniel. I’m currently an undergra
 - School project to construct a Computer Algebra System which can be installed on laptop to do complex math and statistics calculations. It offers the users a vast array of functions and abilities as well as an easy user interface. Python is used to code the functions and interface respectively.
 
     Link to the code on Github: [https://github.com/Benzene-gugugu/Mini-CAS-Calculator](https://github.com/Benzene-gugugu/Mini-CAS-Calculator)
-
-
-### Pioneer Academics
-
-- Time: Mar 2020-Jun 2020
-
-- Guided by Harvey Mudd College's professor Marianne de Laet, I completed a research project on the relationship between technology and online education by examining how the development of technology has changed education philosophy and how technologies can be used to improve the future development of online education.
-
-    Professor Comments: [https://drive.google.com/file/d/1OTzctOiodMaZFA19Jw0-c97ftAOKhcSf/view?usp=sharing](https://drive.google.com/file/d/1OTzctOiodMaZFA19Jw0-c97ftAOKhcSf/view?usp=sharing)
-
-    Paper link: [https://drive.google.com/file/d/1NHk0aBBr0yQ8j4W5kGYbjRBJAu78C0X5/view?usp=sharing](https://drive.google.com/file/d/1NHk0aBBr0yQ8j4W5kGYbjRBJAu78C0X5/view?usp=sharing)
