@@ -46,6 +46,7 @@ My name is Ziang Zhao, and you could call me Daniel. I’m currently an undergra
 ## Teaching Experience
 
 ### Teaching Assistant in University of Wisconsin-Madison
+- Teaching Details: 
     - Class name: ECE 252 Introduction to Computer Engineering
     - Time: Sept 2022-May 2023
     - Topics Covered: Logic components, Boolean Algebra, combinational logic design, synchronous sequential logic design, computer organization and design, machine and assembly language programming
