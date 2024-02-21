@@ -1,6 +1,6 @@
 # About me
 
-My name is Ziang Zhao, and you could call me Daniel. I’m an undergraduate student at the University of Wisconsin-Madison in Madison, WI, USA.
+My name is Ziang Zhao, and you could call me Daniel. I’m an undergraduate student learning Computer Engineering, Computer Science, and Mathematics at the University of Wisconsin-Madison in Madison, WI, USA.
 
 
 # Contact Information
