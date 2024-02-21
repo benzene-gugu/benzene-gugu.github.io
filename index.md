@@ -38,6 +38,9 @@ My name is Ziang Zhao, and you could call me Daniel. I’m an undergraduate stud
     - Class name: ECE 353 Introduction to Microprocessor Systems
     - Time: Jan 2023 - May 2023, Sep 2023 - Dec 2023
     - Topics covered: Architecture, operation, and application of microprocessors
+    - Class name: COMP SCI 540 Introduction to Artificial Intelligence
+    - Time: Jan 2024 - May 2024
+    - Topics covered: Basics of probabilistic machine learning, Neural Networks, Convolutional neural networks, Knowledge-based search, Elementary game theory, Reinforcement learning, and application of these tasks. 
 - Tools and environment: Piazza, Canvas, Microsoft Teams
 - Duties: Proctoring of exams, Host office hours
 
@@ -55,7 +58,7 @@ My name is Ziang Zhao, and you could call me Daniel. I’m an undergraduate stud
 -	Implements a five-stage in-order pipelining
 -	Could execute simple programs and handle hits and misses of caches normally
 
-        Link to the code on Github: [https://github.com/benzene-gugu/FA23-ECE552-Project](https://github.com/benzene-gugu/FA23-ECE552-Project)
+      Link to the code on Github: [https://github.com/benzene-gugu/FA23-ECE552-Project](https://github.com/benzene-gugu/FA23-ECE552-Project)
 
 ## Music Equalizer (ECE 551 Final Project)
 -	Used System Verilog to implement FIR and circular queue
@@ -92,10 +95,10 @@ IEEE HKN UW-Madison Student Chapter
 Programming Languages: 
 - C
 - C++
-- Python (TensorFlow)
+- Python (TensorFlow, Pytorch)
 - Java
 - PHP
 - JavaScript (Vue 2)
 - MATLAB
-- System Verilog (Quartus Development Suite)
+- System Verilog (Quartus Development Suite, Synopsys synthesize tools)
 Experiences with PCB design (Altium)
